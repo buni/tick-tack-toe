@@ -4,7 +4,9 @@ Tic-tac-toe CLI written in Go
 Simple tic tac toe game, utilizing the negamax algorithm for the opponent/AI player.
 ##### Key features:
 Doesn't rely on greedy algorithms, and can support bigger boards than 3x3.
+
 Uses a negamax algorithm with alpha-beta pruning.
+
 Has a Plugable Player interface.
 
 ## Installation
